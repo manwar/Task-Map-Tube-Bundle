@@ -1,5 +1,8 @@
 Revision history for Task::Map::Tube::Bundle
 
+0.03  2024-12-12
+      - Updated pod w.r.t the 2 new maps.
+
 0.02  2024-12-12
       - Added 2 new maps: Hamburg and Rome.
 

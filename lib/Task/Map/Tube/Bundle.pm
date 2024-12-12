@@ -1,6 +1,6 @@
 package Task::Map::Tube::Bundle;
 
-$Task::Map::Tube::Bundle::VERSION   = '0.02';
+$Task::Map::Tube::Bundle::VERSION   = '0.03';
 $Task::Map::Tube::Bundle::AUTHORITY = 'cpan:MANWAR';
 
 use 5.006;
@@ -12,7 +12,7 @@ Task::Map::Tube::Bundle - Bundles Map::Tube::* map packages.
 
 =head1 VERSION
 
-Version 0.02
+Version 0.03
 
 =head1 DESCRIPTION
 
@@ -58,6 +58,8 @@ L<https://github.com/manwar/Task-Map-Tube-Bundle>
 
 =item L<Map::Tube::Glasgow>
 
+=item L<Map::Tube::Hamburg>
+
 =item L<Map::Tube::Hongkong>
 
 =item L<Map::Tube::Kazan>
@@ -97,6 +99,8 @@ L<https://github.com/manwar/Task-Map-Tube-Bundle>
 =item L<Map::Tube::Novosibirsk>
 
 =item L<Map::Tube::Prague>
+
+=item L<Map::Tube::Rome>
 
 =item L<Map::Tube::SaintPetersburg>
 
