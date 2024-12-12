@@ -1,6 +1,6 @@
 package Task::Map::Tube::Bundle;
 
-$Task::Map::Tube::Bundle::VERSION   = '0.01';
+$Task::Map::Tube::Bundle::VERSION   = '0.02';
 $Task::Map::Tube::Bundle::AUTHORITY = 'cpan:MANWAR';
 
 use 5.006;
@@ -12,7 +12,7 @@ Task::Map::Tube::Bundle - Bundles Map::Tube::* map packages.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =head1 DESCRIPTION
 
