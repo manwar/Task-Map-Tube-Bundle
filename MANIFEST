@@ -1,0 +1,11 @@
+Changes
+lib/Task/Map/Tube/Bundle.pm
+Makefile.PL
+LICENSE
+MANIFEST
+MANIFEST.SKIP
+README
+t/00-load.t
+xt/manifest.t
+xt/pod.t
+xt/changes.t
